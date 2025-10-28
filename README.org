@@ -4,6 +4,6 @@ This docstring parser is opinionated and easy to customize.
 
 |---------+---------------------------------------------|
 | source  | git:https://git.sr.ht/~charje/documentation |
-| commit  | 79432c7d                                    |
+| commit  | 79432c7                                    |
 | systems | charje.documentation                        |
 |---------+---------------------------------------------|
