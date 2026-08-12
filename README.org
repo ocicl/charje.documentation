@@ -7,4 +7,4 @@ This docstring parser is opinionated and easy to customize.
 | commit  | 79432c7                                    |
 | systems | charje.documentation                        |
 |---------+---------------------------------------------|
- 
+  
